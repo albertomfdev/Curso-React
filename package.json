@@ -1,0 +1,12 @@
+{
+  "name": "curso-react",
+  "version": "1.0.0",
+  "description": "![react-banner](https://github.com/albertomfdev/Curso-React/assets/109974183/32bdceb7-979c-4b4c-826b-e08f21efe30b)\r ## ¿Qué es React?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

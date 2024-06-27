@@ -25,3 +25,11 @@ React se divide en distintos paquetes:
 
 - *Aprende una vez, escríbelo donde sea*
    En *React* no dejas fuera al resto de tus herramientas tecnológicas, así que podrás desarrollar nuevas características sin necesidad de volver a escribir código existente. 
+
+# ¿Qué se utiliza para trabajar con *REACT*?
+
+Se utiliza un empaquetador de aplicaciones web.
+
+La forma oficial para ello es con CREATE REACT APP pero es un poco lenta y no tan actualizada. 
+
+Otra herramienta mucho más nueva y va de mejor manera (más rápida), la cual es *VITE*
