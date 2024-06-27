@@ -25,6 +25,3 @@ React se divide en distintos paquetes:
 
 - *Aprende una vez, escríbelo donde sea*
    En *React* no dejas fuera al resto de tus herramientas tecnológicas, así que podrás desarrollar nuevas características sin necesidad de volver a escribir código existente. 
-
-
-PRUEBA 
