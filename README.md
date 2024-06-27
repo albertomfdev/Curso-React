@@ -1,7 +1,5 @@
-# Curso-React
-
-
- ## ¿Qué es React?
+![react-banner](https://github.com/albertomfdev/Curso-React/assets/109974183/32bdceb7-979c-4b4c-826b-e08f21efe30b)
+## ¿Qué es React?
 
 Es una biblioteca de JavaScript para construcción de interfaces de usuario. React se penso para desarrollar interfaces de usuario independienteente de donde se aplique, osea es aplicable para el desarrollo de aplicaciones móviles, aplicaciones de terminal, páginas web, etc.  
 
